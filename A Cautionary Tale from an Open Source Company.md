@@ -4,7 +4,7 @@
 
 
 
-*A reflection on management risks in open source business*，Beware of Upward-Managing Executives and Their Organizational Damage
+*A reflection on management risks in open source business*，beware of Upward-Managing Executives and Their Organizational Damage
 
 ## Background
 
